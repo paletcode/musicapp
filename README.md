@@ -10,11 +10,11 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <a href="https://github.com/paletcode/musicapp">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Music App in React</h3>
+<h3 align="center">Music App in React (Under Construction)</h3>
 
   <p align="center">
     project_description
